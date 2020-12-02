@@ -112,7 +112,7 @@
       "/employees/{id}": {
         "get": {
           "description": "Returns a employee based on a single ID",
-          "operationId": "find employee by id",
+          "operationId": "Find employee by id",
           "parameters": [
             {
               "name": "id",
